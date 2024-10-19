@@ -14,3 +14,8 @@
     border-radius: 0.6rem;
     font-size: 1vw;
 }
+.cartao__conteudo {
+    text-align: center;
+    height: 100%;
+    background-color: var(--card-front-color);
+}
